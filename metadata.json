@@ -1,0 +1,6 @@
+{
+  "name": "LiteTube",
+  "description": "Fast video and audio streaming platform like YouTube with ultra-low MB consumption, adaptive resolution control, and offline downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

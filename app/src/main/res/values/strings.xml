@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LiteTube</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_trending">Trending</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="nav_audio_mode">Audio Mode</string>
+    <string name="nav_data_saver">Data Saver</string>
+</resources>
